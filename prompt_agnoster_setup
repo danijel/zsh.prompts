@@ -195,7 +195,7 @@ function prompt_agnoster_setup {
 CURRENT_BG='NONE'
 SEGMENT_SEPARATOR='⮀'
 
-PROMPT='%{%f%b%k%}$(build_prompt) '
+PROMPT='%{%f%b%k%}$(build_prompt_old) '
 
 }
 
